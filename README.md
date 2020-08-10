@@ -10,7 +10,9 @@ Start `install.bat`
 
 # Getting started
 
-Start `start.bar`
+You can change various settings at the start of index.js
+
+Start `start.bat`
 
 type `help` for the help page
 

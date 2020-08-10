@@ -18,8 +18,8 @@ var GlobalData = {
 	DefenseMode: false,
 	IgnoreList: {
 	},
-	BotPrefix: "the_",
-	MessageAfterHack: "idiot american discord.gg/aMfzb5S",
+	BotPrefix: "bot_",
+	MessageAfterHack: "download at github.com/Wownicehat/newbot-sourceio",
 	StatModeEnabled: false,
 	Stats: {
 		HackStarted: 0,
